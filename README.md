@@ -1,2 +1,2 @@
-# ARduinoIDEadditionalBoardsManagerURLS
-Additional Boards Managers URLs
+# Additional Boards Managers URLs
+
